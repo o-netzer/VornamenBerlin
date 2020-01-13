@@ -142,7 +142,7 @@ Auch leere Strings sind nicht als Namen zugelassen und werden entfernt, z.B.
 
 ## Veröffentlichung im Datenportal
 
-Für jedes Jahr wird ein separater Datensatz auf daten.berlin.de veröffentlicht, der die bereinigten CSV- (und ggfs. PDF-)Dateien als Datenressourcen enthält.
+Für jedes Jahr wird ein separater Datensatz auf daten.berlin.de veröffentlicht, der die bereinigten CSV- (und ggfs. PDF-) Dateien als Datenressourcen enthält.
 
 Z.Zt. existieren folgende Datensätze:
 
@@ -153,6 +153,7 @@ Z.Zt. existieren folgende Datensätze:
 - [Liste der häufigen Vornamen 2016](https://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2016)
 - [Liste der häufigen Vornamen 2017](https://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2017)
 - [Liste der häufigen Vornamen 2018](https://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2018)
+- [Liste der häufigen Vornamen 2019](https://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2019)
 
 ## Lizenz
 

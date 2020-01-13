@@ -2,6 +2,11 @@
 
 ## Development
 
+## 1.1.3
+
+- Add 2019 data and make targets.
+- Update README (with reference to 2019 dataset).
+
 ## 1.1.2
 
 - Adjust README.
