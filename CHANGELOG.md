@@ -2,6 +2,10 @@
 
 ## Development
 
+## 1.1.4
+
+- Add "Familienname" to the list of non-names (which showed up as a name in Spandau 2017). Thanks to @graste and @xilefluap!
+
 ## 1.1.3
 
 - Add 2019 data and make targets.

@@ -171,3 +171,5 @@ In beiden Fällen muss die URL des Repositories in der Quellenangabe angegeben w
 ### Software / Quellcode
 
 Aller im Repository enthaltener Quellcode ist unter der [MIT Lizenz](LICENSE) veröffentlicht.
+
+Last changed: 2020-04-14
